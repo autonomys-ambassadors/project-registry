@@ -12,7 +12,7 @@ NOTE: These projects are not currently attributed to the user who created them. 
 |Engineering|Bare metal Linux scripts to automate node and farmer installation and update, including basic os /security configuration and systemd setup. Configures Prometheus and leverages Grafana from Jim's project.|https://github.com/jrwashburn/subspace-utils|
 |Engineering|Dashboard/explorer with real-time metrics||
 |Engineering|Web service with a dashboard consisting of useful information|https://github.com/ralymov/subspace-dashboard-nest|
-|Support|Script that will collect some information from the host (journalctl logs/docker logs / ps / open ports / firewall status etc) and post it in terminal / logfile.||
+|Support|Script that will collect some information from the host (journalctl logs/docker logs / ps / open ports / firewall status etc) and post it in terminal / logfile.|https://github.com/pcheliniy/subspace-gather-info|
 |Engineering|Telegram Tutorial Bot that helps farmers with low “node-runner” experience to setup their nodes step-by-step (for eng & ru community at first)|https://github.com/swel4ik/subpsaceTutorialBot|
 |Support|A script-doc in Notion containing all known problems with the farmer's work and nodes, and a quick response text including a solution.|https://aspiring-shear-865.notion.site/Quick-Support-Script-21a0488f439141f883acd2bb43babb84|
 |Support|Very easy guide for ubuntu users|https://teletype.in/@yurally/RvmKt6USLNI https://github.com/yurally/subspace/blob/main/subspace|
