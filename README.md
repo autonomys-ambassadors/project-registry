@@ -34,7 +34,7 @@ Outreach|Subspace community-ran Twitter account. Repurpose @Subspace memes or ne
 
 | Functional Area | Project Description | Project Link |
 |-----------------|---------------------|--------------|
-
+| Engineering|The script automatically updates the cli node.|https://github.com/PurpleM0ney/subspace-sh|
 
 
 
