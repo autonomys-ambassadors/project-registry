@@ -1,8 +1,8 @@
 # Subspace Ambassadors Project Registry
 
-The home of the Subspace Ambassadors program project details. As part of the ambassador program intake process, apperentice ambassadors are asked to produce a project that adds value to Subspace. Here you can find details of those projects.
+The home of the Subspace Ambassadors program project details. As part of the ambassador program intake process, apprentice ambassadors are asked to produce a project that adds value to Subspace. Here you can find details of those projects.
 
-NOTE: These projects are not currently attributed to the user who created them. Once we have a GDPR policy in place we can decide wether to update the tables to include this information. In most cases you can contact the author on the links provided.
+NOTE: These projects are not currently attributed to the user who created them. Once we have a GDPR policy in place we can decide whether to update the tables to include this information. In most cases you can contact the author on the links provided.
 
 ## Intake 2 - Presented 2022-09-08
 
