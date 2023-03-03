@@ -34,4 +34,9 @@ Outreach|Subspace community-ran Twitter account. Repurpose @Subspace memes or ne
 
 | Functional Area | Project Description | Project Link |
 |-----------------|---------------------|--------------|
-|Support, Engineering|A script to automatically update the cli node. When a new version is released, it reinstalls the node to the current version and runs it.|https://github.com/PurpleM0ney/subspace-sh|
+|Engineering|A script to automatically update the cli node. When a new version is released, it reinstalls the node to the current version and runs it.|https://github.com/PurpleM0ney/subspace-sh|
+|Content Creation|Altdocs, where there will be an assembly of various useful information for farmers. How to secure the system, how to optimize the system, how to build an optimized Subspace node, how to set up a multi-farm configuration, etc.|https://codeberg.org/Seryoga_Leshii/subspace-altdocs|
+|Content Creation|Multilingual website with all Subspace official blogs. People will have only one platform with many articles in different languages, which is very convenient. You won't have to search for these articles on other platforms like medium or teletype.|https://subspacecommunity.blog/|
+|Engineering|Telegramm-bot with alerts for subspace node and hardware info (CPU/RAM/Disk). Hosted on local node and opensource code = security + easy to add some new features|https://github.com/mrShakedown/subspace-bot|
+|Content Creation|Making high quality visuals make Club Subspace Twitter more attractive for newcomers and helps to bring more people to the Subspace community, making Club Subspace more like a pro account («voice of Subspace community») and etc.|https://drive.google.com/file/d/10mlT90VLtXMMH3lTmOCrxuSg7J5wmVcu/view?usp=drivesdk|
+|Content Creation|Conducting gaming events/sessions with the community and ambassadors. Small guides on participation in them.|https://www.canva.com/design/DAFX2W1BLpo/lcpEx9oecSwhXXJEoK-0pw/view?utm_content=DAFX2W1BLpo&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent#1|
