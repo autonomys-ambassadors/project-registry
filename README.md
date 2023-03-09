@@ -1,8 +1,8 @@
 # Subspace Community Project Registry
 
-The home of the Subspace community project details. As part of the ambassador program intake process, apprentice ambassadors are asked to produce a project that adds value to Subspace. Below you can find details of those projects.
+The home of [Subspace](https://subspace.network/) community projects. One of the [ambassador program](https://subspace.network/ambassadors) selection tasks is to produce a project that adds value to the Subspace ecosystem. Below you can find details of those projects.
 
-If you are feeling inspired but are not part of the Ambassador program (or maybe aspire to become a part of it) please do showcase your efforts by adding new entries to the bottom of the community table.
+If you are feeling inspired but are not part of the ambassador program (or maybe aspire to become a part of it) please do share your efforts by adding new entries to the bottom of the [community table](#community).
 
 ## Ambassador Intake 2 - Presented [2022-09-08](https://www.youtube.com/watch?v=qARk2dPpbEw)
 
