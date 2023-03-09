@@ -45,3 +45,4 @@ Outreach|Subspace community-ran Twitter account. Repurpose @Subspace memes or ne
 | Functional Area | Project Description | Project Link |
 |-----------------|---------------------|--------------|
 |Community|Example community project|https://www.example.com|
+|Community|Educational materials about Subspace done with excellent funny approach|https://pepelearn.site/|
