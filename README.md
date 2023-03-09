@@ -4,7 +4,7 @@ The home of the Subspace community project details. As part of the ambassador pr
 
 If you are feeling inspired but are not part of the Ambassador program (or maybe aspire to become a part of it) please do showcase your efforts by adding new entries to the bottom of the community table.
 
-## Ambassador Intake 2 - Presented 2022-09-08
+## Ambassador Intake 2 - Presented [2022-09-08](https://www.youtube.com/watch?v=qARk2dPpbEw)
 
 | Functional Area | Project Description | Project Link |
 |-----------------|---------------------|--------------|
