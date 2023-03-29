@@ -46,3 +46,4 @@ Outreach|Subspace community-ran Twitter account. Repurpose @Subspace memes or ne
 |-----------------|---------------------|--------------|
 |Community|Example community project|https://www.example.com|
 |Community|Educational materials about Subspace done with excellent funny approach|https://pepelearn.site/|
+|Community|Crypto tools|https://tools.crypton.xyz/en/T0|
