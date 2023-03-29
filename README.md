@@ -9,7 +9,6 @@ If you are feeling inspired but are not part of the ambassador program (or maybe
 | Functional Area | Project Description | Project Link |
 |-----------------|---------------------|--------------|
 |Support, Engineering|A template Docker compose that includes monitoring of a farmer’s Subspace node with proven, open source tools.|https://github.com/counterpointsoftware/subspace-monitoring|
-|Engineering|Bare metal Linux scripts to automate node and farmer installation and update, including basic os /security configuration and systemd setup. Configures Prometheus and leverages Grafana from Jim's project.|https://github.com/jrwashburn/subspace-utils|
 |Engineering|Dashboard/explorer with real-time metrics||
 |Engineering|Web service with a dashboard consisting of useful information|https://github.com/ralymov/subspace-dashboard-nest|
 |Support|Script that will collect some information from the host (journalctl logs/docker logs / ps / open ports / firewall status etc) and post it in terminal / logfile.|https://github.com/pcheliniy/subspace-gather-info|
