@@ -28,6 +28,7 @@ Outreach|Subspace community-ran Twitter account. Repurpose @Subspace memes or ne
 |Support|Create and grow Vietnam Subspace Community on Telegram and translate farming documents and Subspace articles to Vietnamese|https://t.me/subspace_vietnam https://medium.com/subspace-vietnam-community|
 |Support|Unofficial Russian blog with translations into Russian! A series of articles on what SubSpace is, what problems are now in Web 3.0, and how SubSpace solves them.|https://medium.com/@SubspaceNetworkRU|
 |Support|I founded the Telegram group in Indonesian for the Subspace Network and I have been managing it for a long time (3 Months). I made the group even before I was elected or apprenticed as an ambassador. I’ve also made a tutorial to participate in the Gemini 1 Subspace testnet through notes and published through the media during round 2 or Gemini 2 which I also did before I was selected as an apprentice ambassador in subspace.|https://t.me/subspaceindonesia https://discord.com/channels/951869131056091217/1016719151152242841/1021085310953734174 https://discord.com/channels/951869131056091217/1021951072815829002/1022031619697156126 https://cryptolog.space/2022/09/21/tutorial-testnet-subspace-gemini-ii-versi-docker/|
+| Engineering | Bare metal Linux scripts to automate node and farmer installation and update, including basic os /security configuration and systemd setup. Configures Prometheus and leverages Grafana from Jim's project. | https://github.com/jrwashburn/subspace-utils |
 
 ## Ambassador Intake 3 - Presented 2023-01-26
 
