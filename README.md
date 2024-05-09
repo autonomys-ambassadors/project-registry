@@ -41,6 +41,13 @@ Outreach|Subspace community-ran Twitter account. Repurpose @Subspace memes or ne
 |Content Creation|Making high quality visuals make Club Subspace Twitter more attractive for newcomers and helps to bring more people to the Subspace community, making Club Subspace more like a pro account («voice of Subspace community») and etc.|https://drive.google.com/file/d/10mlT90VLtXMMH3lTmOCrxuSg7J5wmVcu/view?usp=drivesdk|
 |Content Creation|Conducting gaming events/sessions with the community and ambassadors. Small guides on participation in them.|https://www.canva.com/design/DAFX2W1BLpo/lcpEx9oecSwhXXJEoK-0pw/view?utm_content=DAFX2W1BLpo&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent#1|
 
+## Ambassador Intake X - Presented 2024-04
+
+| Functional Area | Project Description                                        | Project Link |
+|-----------------|------------------------------------------------------------|--------------|
+|Engineering| Automatic deployment from ansible. Node, Farmer & Operator |https://github.com/Tocard/subspace_install|
+
+
 ## Other projects
 | Functional Area | Project Description | Project Link |
 |-----------------|---------------------|--------------|
