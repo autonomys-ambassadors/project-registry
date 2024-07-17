@@ -1,4 +1,4 @@
-# Subspace Community Project Registry
+[# Subspace Community Project Registry
 
 The home of [Subspace](https://subspace.network/) community projects. One of the [ambassador program](https://subspace.network/ambassadors) selection tasks is to produce a project that adds value to the Subspace ecosystem. Below you can find details of those projects.
 
@@ -46,7 +46,7 @@ Outreach|Subspace community-ran Twitter account. Repurpose @Subspace memes or ne
 | Functional Area | Project Description                                        | Project Link |
 |-----------------|------------------------------------------------------------|--------------|
 |Engineering| Automatic deployment from ansible. Node, Farmer & Operator |https://github.com/Tocard/subspace_install|
-
+|Engineering| Forum built for subspace protocol for project wanted to list on the protocol to discuss there idea, get comments from community members and hopefully get funding| subspace-forum.vercel.app|
 
 ## Other projects
 | Functional Area | Project Description | Project Link |
