@@ -46,6 +46,7 @@ Outreach|Subspace community-ran Twitter account. Repurpose @Subspace memes or ne
 | Functional Area | Project Description                                        | Project Link |
 |-----------------|------------------------------------------------------------|--------------|
 |Engineering| Automatic deployment from ansible. Node, Farmer & Operator |https://github.com/Tocard/subspace_install|
+|Engineering| Forum built for subspace protocol in other for projects wanted to build on the protocol to discuss there idea and get feedbacks from the community members, including a possiblity of funding| https://subspace-forum.vercel.app/|
 
 
 ## Other projects
